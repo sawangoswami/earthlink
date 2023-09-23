@@ -1,0 +1,35 @@
+
+header{
+    background-color:#000D0D;
+    .navbar{
+          padding:28px 0;
+    }
+    .navbar .collapse .navbar-nav{
+        margin-left:px;
+        column-gap: 20px;
+    }
+    .navbar .collapse .nav-item{
+        .nav-link{
+        color:white;
+        font-size:16px;
+        font-weight: 600;
+        letter-spacing: -0.32px
+    }
+      }
+
+      .navbar .collapse .navbar-nav .icon{
+        column-gap:14px;
+        margin-left:23px;
+        
+       li a img{
+        filter: brightness(0%) invert(1);
+        height:auto;
+        max-width:61%;
+       
+       }
+
+       .navbar .collapse .navbar-nav .d-flex{
+        margin-left:-56px
+       }
+    }
+}

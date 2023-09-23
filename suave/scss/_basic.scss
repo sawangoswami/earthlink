@@ -1,0 +1,32 @@
+$main-font:Poppins, sans-serif;
+
+
+*{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing:border-box
+}
+body{
+    font-family:$main-font
+}
+
+ul{
+    margin:0;
+    padding:0;
+}
+
+a{
+    text-decoration:none;
+    font-size:16px;
+}
+
+body{
+
+    font-family:$main-font
+}
+
+a{
+    display:inline-block;
+}
